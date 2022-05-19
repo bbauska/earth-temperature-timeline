@@ -1,7 +1,7 @@
 <h1>earth-temperature-timeline</h1>
-The timeline of planet Earth in .png format.
+The timeline of planet Earth in .png.
 <br/>
-<hr size="6" width="85%" color="yellow">
+<hr size="8" width="100%" color="dark green">
 <!---
 [Here it is: ](https://github.com/bbauska/earth-temperature-timeline/blob/master/earth_temperature_timeline.png)
 --->
