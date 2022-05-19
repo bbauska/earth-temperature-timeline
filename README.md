@@ -1,5 +1,4 @@
-<h1>earth-temperature-timeline</h1>
-The timeline of planet Earth in .png.
+<h1>The timeline of planet Earth in .png</h1>
 <br/>
 <hr size="8" width="100%" color="dark green">
 <!---
